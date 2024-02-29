@@ -1,0 +1,3 @@
+C:\Users\anderson.asantos55\source\repos\EXERCICIOSTI20N\EXERCICIOSTI20N\obj\Debug\EXERCICIOSTI20N.csproj.AssemblyReference.cache
+C:\Users\anderson.asantos55\source\repos\EXERCICIOSTI20N\EXERCICIOSTI20N\obj\Debug\EXERCICIOSTI20N.csproj.SuggestedBindingRedirects.cache
+C:\Users\anderson.asantos55\source\repos\EXERCICIOSTI20N\EXERCICIOSTI20N\obj\Debug\EXERCICIOSTI20N.csproj.CoreCompileInputs.cache
